@@ -262,4 +262,6 @@ const projects = [
   },
 ];
 
+// testimonials
+
 export { services, technologies, experiences, testimonials, projects };
