@@ -25,10 +25,13 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import vrgarage from "./company/vrgarage.jpg";
+import amunik from "./company/amunik.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import foodie from "./foodie-project.png";
 
 export {
   logo,
@@ -56,7 +59,10 @@ export {
   shopify,
   starbucks,
   tesla,
+  vrgarage,
+  amunik,
   carrent,
   jobit,
   tripguide,
+  foodie,
 };
